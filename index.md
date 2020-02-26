@@ -5,7 +5,7 @@
 <img src="./images/Microsoft2.png" align=center height=100 width=430></img>
 
 
-# Azure Boot Camp
+# M365 Boot Camp
 
 Hello, you've reached the **Pax8 Azure Bootcamp** site.  Here you will find the labs and presentations covered during the bootcamp.  The labs for the  bootcamp are linked below and are broken down into the following distinct areas:
 
